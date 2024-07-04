@@ -1,0 +1,251 @@
+[
+  {
+    "name": "Erik ten Hag",
+    "role": "Coach",
+    "photo": "erik_ten_hag.png",
+    "bio": "Erik ten Hag is the head coach of Manchester United, known for his tactical prowess and team building skills.",
+    "stats": "Jersey Number: N/A\n\nSalary: 9.0M€/per year",
+    "link": "https://en.wikipedia.org/wiki/Erik_ten_Hag"
+  },
+  {
+    "name": "Marcus Rashford",
+    "role": "Forward",
+    "photo": "marcus_rashford.png",
+    "bio": "Marcus Rashford emerged from Manchester United's youth academy, showcasing exceptional talent as a forward. With his rapid pace and keen eye for goal, Rashford quickly became a fan favorite. Off the pitch, Rashford is known for his philanthropic efforts, especially in combating child food poverty, which has earned him national acclaim and respect beyond football.",
+    "stats": "Jersey Number: 10\n\nValue: 75.0M€\n\nFoot: Right\n\nHeight: 180\n\nWeight: 78",
+    "link": "https://en.wikipedia.org/wiki/Marcus_Rashford"
+  },
+  {
+    "name": "Rasmus Winther-Hojlund",
+    "role": "Forward",
+    "photo": "rasmus_winther.png",
+    "bio": "Rasmus Winther-Hojlund is recognized for his agility and tactical intelligence on the field. He began his career in Denmark, showing great potential and a natural flair for goal-scoring.",
+    "stats": "Jersey Number: 11\n\nValue: 65.0M€",
+    "link": "https://da.wikipedia.org/wiki/Rasmus_H%C3%B8jlund"
+  },
+  {
+    "name": "Jadon Sancho",
+    "role": "Forward",
+    "photo": "jadon_sancho.png",
+    "bio": "Jadon Sancho's career began at Watford before moving to Manchester City's youth team and then breaking through at Borussia Dortmund. His dribbling skills and creative flair on the wing have made him one of Europe's most exciting young talents. Sancho's return to Manchester United marked a homecoming for a player many hope will be pivotal in the team's quest for glory.",
+    "stats": "Jersey Number: 25\n\nValue: 32.0M€",
+    "link": "https://en.wikipedia.org/wiki/Jadon_Sancho"
+  },
+  {
+    "name": "Shola Shoretire",
+    "role": "Forward",
+    "photo": "shola_shoretire.png",
+    "bio": "A product of United's youth system, Shola Shoretire has made headlines for his versatility across the front line. His ability to play in multiple attacking positions, coupled with his composed demeanor on the ball, earmarks him as a one-to-watch for the future. Shoretire is also notable for setting age-related records in both domestic and European competitions.",
+    "stats": "Jersey Number: 47\n\nValue: 4.0M€",
+    "link": "https://en.wikipedia.org/wiki/Shola_Shoretire"
+  },
+  {
+    "name": "Alejandro Garnacho",
+    "role": "Forward",
+    "photo": "alejandro_garnacho.png",
+    "bio": "Alejandro Garnacho is a young talent with a penchant for incisive runs and a powerful shot. As a youth international, he has already turned heads with performances for both club and country. His dedication to improving his game is evident in his extra training sessions and his determination on the pitch.",
+    "stats": "Jersey Number: 17\n\nValue: 25.0M€",
+    "link": "https://en.wikipedia.org/wiki/Alejandro_Garnacho"
+  },
+  {
+    "name": "Anthony Martial",
+    "role": "Forward",
+    "photo": "anthony_martial.png",
+    "bio": "Anthony Martial's transfer to Manchester United set expectations high due to his natural ability and early comparisons to football legends. Martial's time at United has seen him develop into a forward known for his dribbling, composure, and finishing. Despite facing competition for his place, Martial's ability to change a game single-handedly remains undisputed.",
+    "stats": "Jersey Number: 9\n\nValue: 15.0M€",
+    "link": "https://en.wikipedia.org/wiki/Anthony_Martial"
+  },
+  {
+    "name": "Antony Matheus dos Santos",
+    "role": "Forward",
+    "photo": "antony_matheus.png",
+    "bio": "Commonly known as Antony, this Brazilian winger is celebrated for his flair, technical skills, and ability to produce moments of magic on the field. Antony's career in Europe began with Ajax, where he developed a reputation for his 1v1 prowess and goal contributions, earning him a high-profile move to one of the world's most storied clubs.",
+    "stats": "Jersey Number: 21\n\nValue: 50.0M€",
+    "link": "https://en.wikipedia.org/wiki/Antony_(footballer,_born_2000)"
+  },
+  {
+    "name": "Sofyan Amrabat",
+    "role": "Midfielder",
+    "photo": "sofyan_amrabat.png",
+    "bio": "Sofyan Amrabat is valued for his defensive contributions and playmaking from midfield.",
+    "stats": "Jersey Number: 4\n\nValue: 30.0M€",
+    "link": "https://en.wikipedia.org/wiki/Sofyan_Amrabat"
+  },
+  {
+    "name": "Scott McTominay",
+    "role": "Midfielder",
+    "photo": "scott_mctominay.png",
+    "bio": "Scott McTominay is known for his physical presence and versatility in midfield.",
+    "stats": "Jersey Number: 39\n\nValue: 25.0M€",
+    "link": "https://en.wikipedia.org/wiki/Scott_McTominay"
+  },
+  {
+    "name": "Bruno Fernandes",
+    "role": "Midfielder",
+    "photo": "bruno_fernandes.png",
+    "bio": "Bruno Fernandes is renowned for his creativity, goal-scoring, and leadership in midfield.",
+    "stats": "Jersey Number: 8\n\nValue: 75.0M€",
+    "link": "https://en.wikipedia.org/wiki/Bruno_Fernandes"
+  },
+  {
+    "name": "Hannibal Mejbri",
+    "role": "Midfielder",
+    "photo": "hannibal_mejbri.png",
+    "bio": "Hannibal Mejbri is noted for his technical skill and vision.",
+    "stats": "Jersey Number: 46\n\nValue: 12.0M€",
+    "link": "https://en.wikipedia.org/wiki/Hannibal_Mejbri"
+  },
+  {
+    "name": "Mason Mount",
+    "role": "Midfielder",
+    "photo": "mason_mount.png",
+    "bio": "Mason Mount is celebrated for his passing accuracy and tactical intelligence.",
+    "stats": "Jersey Number: 7\n\nValue: 60.0M€",
+    "link": "https://en.wikipedia.org/wiki/Mason_Mount"
+  },
+  {
+    "name": "Donny van de Beek",
+    "role": "Midfielder",
+    "photo": "donny_van.png",
+    "bio": "Donny van de Beek offers versatility and a keen eye for goal from midfield.",
+    "stats": "Jersey Number: 34\n\nValue: 10.0M€",
+    "link": "https://en.wikipedia.org/wiki/Donny_van_de_Beek"
+  },
+  {
+    "name": "Facundo Pellistri",
+    "role": "Midfielder",
+    "photo": "facundo_pellistri.png",
+    "bio": "Facundo Pellistri is known for his pace and dribbling ability on the wing.",
+    "stats": "Jersey Number: 28\n\nValue: 8.0M€",
+    "link": "https://en.wikipedia.org/wiki/Facundo_Pellistri"
+  },
+  {
+    "name": "Christian Eriksen",
+    "role": "Midfielder",
+    "photo": "christian_eriksen.png",
+    "bio": "Christian Eriksen is a playmaker known for his vision and precision passing.",
+    "stats": "Jersey Number: 14\n\nValue: 18.0M€",
+    "link": "https://en.wikipedia.org/wiki/Christian_Eriksen"
+  },
+  {
+    "name": "Kobbie Mainoo",
+    "role": "Midfielder",
+    "photo": "kobbie_mainoo.png",
+    "bio": "Kobbie Mainoo is a dynamic player with potential for great future contributions.",
+    "stats": "Jersey Number: 37\n\nValue: 800.0k€",
+    "link": "https://en.wikipedia.org/wiki/Kobbie_Mainoo"
+  },
+  {
+    "name": "Casemiro",
+    "role": "Midfielder",
+    "photo": "casemiro.png",
+    "bio": "Casemiro is recognized as a powerful defensive midfielder with strong tackling skills.",
+    "stats": "Jersey Number: 18\n\nValue: 40.0M€",
+    "link": "https://en.wikipedia.org/wiki/Casemiro"
+  },
+  {
+    "name": "Luke Shaw",
+    "role": "Defender",
+    "photo": "luke_shaw.png",
+    "bio": "Luke Shaw is a left-back known for his crossing ability and defensive solidity.",
+    "stats": "Jersey Number: 23\n\nValue: 42.0M€",
+    "link": "https://en.wikipedia.org/wiki/Luke_Shaw"
+  },
+  {
+    "name": "Tyrell Malacia",
+    "role": "Defender",
+    "photo": "tyrell_malacia.png",
+    "bio": "Tyrell Malacia is noted for his pace and agility on the flank.",
+    "stats": "Jersey Number: 12\n\nValue: 22.0M€",
+    "link": "https://en.wikipedia.org/wiki/Tyrell_Malacia"
+  },
+  {
+    "name": "Diogo Dalot",
+    "role": "Defender",
+    "photo": "diogo_dalot.png",
+    "bio": "Diogo Dalot offers versatility and is capable of playing both right-back and left-back.",
+    "stats": "Jersey Number: 20\n\nValue: 40.0M€",
+    "link": "https://en.wikipedia.org/wiki/Diogo_Dalot"
+  },
+  {
+    "name": "Raphaël Varane",
+    "role": "Defender",
+    "photo": "raphael_varane.png",
+    "bio": "Raphaël Varane is a center-back known for his defensive prowess and experience.",
+    "stats": "Jersey Number: 19\n\nValue: 35.0M€",
+    "link": "https://en.wikipedia.org/wiki/Rapha%C3%ABl_Varane"
+  },
+  {
+    "name": "Jonny Evans",
+    "role": "Defender",
+    "photo": "jonny_evans.png",
+    "bio": "Jonny Evans is a veteran defender with a wealth of Premier League experience.",
+    "stats": "Jersey Number: 35\n\nValue: 2.0M€",
+    "link": "https://en.wikipedia.org/wiki/Jonny_Evans"
+  },
+  {
+    "name": "Harry Maguire",
+    "role": "Defender",
+    "photo": "harry_maguire.png",
+    "bio": "Harry Maguire is the captain with a commanding presence in the air and on the ground.",
+    "stats": "Jersey Number: 5\n\nValue: 20.0M€",
+    "link": "https://en.wikipedia.org/wiki/Harry_Maguire"
+  },
+  {
+    "name": "Aaron Wan-Bissaka",
+    "role": "Defender",
+    "photo": "aaron_wan.png",
+    "bio": "Aaron Wan-Bissaka is known for his tackling and defensive skills.",
+    "stats": "Jersey Number: 29\n\nValue: 25.0M€",
+    "link": "https://en.wikipedia.org/wiki/Aaron_Wan-Bissaka"
+  },
+  {
+    "name": "Victor Lindelöf",
+    "role": "Defender",
+    "photo": "victor_lindelof.png",
+    "bio": "Jersey number 2, Victor Lindelöf is a center-back recognized for his calmness and ball-playing ability.",
+    "stats": "Jersey Number: 2\n\nValue: 18.0M€",
+    "link": "https://en.wikipedia.org/wiki/Victor_Lindel%C3%B6f"
+  },
+  {
+    "name": "Sergio Reguilón",
+    "role": "Defender",
+    "photo": "sergio_reguilon.png",
+    "bio": "Jersey number 15, Sergio Reguilón is an attacking full-back known for his speed and crossing.",
+    "stats": "Jersey Number: 15\n\nValue: 10.0M€",
+    "link": "https://en.wikipedia.org/wiki/Sergio_Reguil%C3%B3n"
+  },
+  {
+    "name": "Tom Heaton",
+    "role": "Goalkeeper",
+    "photo": "tom_heaton.png",
+    "bio": "Jersey number 22, Tom Heaton is known for his reliable goalkeeping and experience between the posts.",
+    "stats": "Jersey Number: 22\n\nValue: 500.0k€",
+    "link": "https://en.wikipedia.org/wiki/Tom_Heaton"
+  },
+  {
+    "name": "André Onana",
+    "role": "Goalkeeper",
+    "photo": "andre_onana.png",
+    "bio": "Jersey number 24, André Onana is celebrated for his reflexes and control of the penalty area.",
+    "stats": "Jersey Number: 24\n\nValue: 40.0M€",
+    "link": "https://en.wikipedia.org/wiki/Andr%C3%A9_Onana"
+  },
+  {
+    "name": "Radek Vítek",
+    "role": "Goalkeeper",
+    "photo": "radek_vitek.png",
+    "bio": "Jersey number 40, Radek Vítek is a young goalkeeper with promising talent and potential.",
+    "stats": "Jersey Number: 40\n\nValue: 300.0k€",
+    "link": "https://www.manutd.com/en/players-and-staff/detail/radek-vitek"
+  },
+  {
+    "name": "Altay Bayındır",
+    "role": "Goalkeeper",
+    "photo": "altay_bayindir.png",
+    "bio": "Jersey number 1, Altay Bayındır has made a name for himself with his impressive shot-stopping ability.",
+    "stats": "Jersey Number: 1\n\nValue: 10.0M€",
+    "link": "https://en.wikipedia.org/wiki/Altay_Bay%C4%B1nd%C4%B1r"
+  }
+
+]
